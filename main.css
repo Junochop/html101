@@ -14,3 +14,15 @@ nav {
 li {
 	display: inline;
 }
+img {
+	max-width: 100px;
+}
+
+table, th, td {
+	border: 1px solid black;
+
+
+}
+table {
+	margin: 0 auto;
+}
